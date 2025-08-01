@@ -40,3 +40,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Gradle
+.gradle
+/build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# For generated files
+/out/
